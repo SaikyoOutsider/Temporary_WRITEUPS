@@ -43,7 +43,7 @@
 
 Подсказок у нас о способе дешифровки нет, так что попробуем варианты с брутфорсом.
 
-![image](https://github.com/user-attachments/assets/92fe67ee-35f3-405c-bbc3-a8c7f5c64049)
+![image](https://github.com/user-attachments/assets/b591625b-8a31-48dc-acb2-427319225bee)
 
 При проверке на ROT47 можно заметить ссылку, перейдем по ней.
 
