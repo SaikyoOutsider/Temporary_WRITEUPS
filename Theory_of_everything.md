@@ -23,17 +23,17 @@
 
 ![image](https://github.com/user-attachments/assets/d90b073d-6570-4cbc-885d-acda8ff53910)
 
-![image](https://github.com/user-attachments/assets/036ac70e-cb6c-401e-9c8c-8c3ad4a4ec25)
+![image](https://github.com/user-attachments/assets/2d3be80f-e2c0-424a-b4df-2c3f13fc6575)
 
 Видим тонну символов нулевой ширины, давайте же декодируем их и посмотрим, что там:
 
-![image](https://github.com/user-attachments/assets/fbdb2646-6c3d-42bb-8ba9-ec59a9fcb354)
+![image](https://github.com/user-attachments/assets/c1103ed7-4fc8-41ae-bf8b-3479088658b3)
 
 Перейдем по ссылке, посмотрим, что там.
 
-![image](https://github.com/user-attachments/assets/fd553514-fcfd-46bd-92b6-42ff6ca73de5)
+![image](https://github.com/user-attachments/assets/bcc98521-6209-4346-9be2-16ff0c1539e0)
 
-Видим простенький сайт, посмотрим, что там в файлах.
+Видим простенький сайт с игрой, посмотрим, что там в файлах.
 
 ![image](https://github.com/user-attachments/assets/51545ef9-6ff4-4ab8-bb40-791a017b11ea)
 
