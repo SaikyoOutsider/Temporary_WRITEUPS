@@ -23,19 +23,19 @@
 
 ![image](https://github.com/user-attachments/assets/d90b073d-6570-4cbc-885d-acda8ff53910)
 
-![image](https://github.com/user-attachments/assets/8b8ebeee-c101-4152-8561-55e88a0a0994)
+![image](https://github.com/user-attachments/assets/036ac70e-cb6c-401e-9c8c-8c3ad4a4ec25)
 
 Видим тонну символов нулевой ширины, давайте же декодируем их и посмотрим, что там:
 
-![image](https://github.com/user-attachments/assets/9c0a7557-7f3d-4d19-96d1-243815b1afec)
+![image](https://github.com/user-attachments/assets/fbdb2646-6c3d-42bb-8ba9-ec59a9fcb354)
 
 Перейдем по ссылке, посмотрим, что там.
 
-![image](https://github.com/user-attachments/assets/e553d2e7-8e8b-40a5-b6cd-53f932d2a6c9)
+![image](https://github.com/user-attachments/assets/fd553514-fcfd-46bd-92b6-42ff6ca73de5)
 
 Видим простенький сайт, посмотрим, что там в файлах.
 
-![image](https://github.com/user-attachments/assets/fb48b6e8-78ba-46be-a5d0-2c35f1441edb)
+![image](https://github.com/user-attachments/assets/51545ef9-6ff4-4ab8-bb40-791a017b11ea)
 
 В источниках из необычного видим, только фрагмент с #flag в css. Посмотрим, что там за необычная строка.
 
