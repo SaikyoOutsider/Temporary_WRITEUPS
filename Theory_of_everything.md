@@ -39,27 +39,27 @@
 
 В источниках из необычного видим, только фрагмент с #flag в css. Посмотрим, что там за необычная строка.
 
-![image](https://github.com/user-attachments/assets/80a83bfe-f6d4-4f8a-b944-ddd76df9f7bc)
+![image](https://github.com/user-attachments/assets/108db3f7-0934-4559-9fb3-8202ec1a702f)
 
 Подсказок у нас о способе дешифровки нет, так что попробуем варианты с брутфорсом.
 
-![image](https://github.com/user-attachments/assets/ecd30d0a-a1d7-4499-958c-8263dda169c2)
+![image](https://github.com/user-attachments/assets/92fe67ee-35f3-405c-bbc3-a8c7f5c64049)
 
 При проверке на ROT47 можно заметить ссылку, перейдем по ней.
 
-![image](https://github.com/user-attachments/assets/ed4bbef4-6094-4ca5-bf31-8438517672b8)
+![image](https://github.com/user-attachments/assets/f9733de2-027d-486e-81c4-853d2f391e16)
 
 Она ведет на Google Disk, где находится архив с говорящим названием "CrackMe.zip". Архив, конечно же, запоролен.
 Скачаем файлик и попробуем сбрутить пароль. Например, с помощью утилиты fcrackzip.
 
-![image](https://github.com/user-attachments/assets/f0c31c3b-4780-484c-ae00-de98861e6a36)
+![image](https://github.com/user-attachments/assets/b19732d3-720b-48f8-88b8-f8c476311367)
 
 Утилита моментально справилась и подобрала пароль, посмотрим на содержимое файла The_last_push.txt
 
-![image](https://github.com/user-attachments/assets/05ce3f72-ad1c-40d1-a363-f13eb46a3611)
+![image](https://github.com/user-attachments/assets/b53f7d37-a772-4602-b3da-688ac21da41d)
 
 Файл на первый взгляд выглядит пустым, но на самом деле это не так. Он состоит из пробелов, табуляций и символов переноса строки. Это вполне может быть код WhiteSpace, для его декодирования воспользуемся утилитый stegsnow:
 
-![image](https://github.com/user-attachments/assets/8014a8c7-4d8b-4cea-a8a7-8616e71c2b11)
+![image](https://github.com/user-attachments/assets/6cbd13ba-1f0c-4e16-b486-0a201c33ba5c)
 
 **И вот он флаг: Sa1kyoCTF{y0u_w0n_7h15_b477l3}**
