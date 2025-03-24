@@ -21,7 +21,8 @@
 
 В содержании файла можно заметить упоминание нулевой ширины. В таком случае стоит проверить, как выглядит содержание файла в разных текстовых редакторах.
 
-![image](https://github.com/user-attachments/assets/c440060d-cbbd-4022-8037-7110e0dd2b32)
+![image](https://github.com/user-attachments/assets/d90b073d-6570-4cbc-885d-acda8ff53910)
+
 ![image](https://github.com/user-attachments/assets/8b8ebeee-c101-4152-8561-55e88a0a0994)
 
 Видим тонну символов нулевой ширины, давайте же декодируем их и посмотрим, что там:
