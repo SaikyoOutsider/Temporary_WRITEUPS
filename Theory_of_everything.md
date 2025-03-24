@@ -52,7 +52,7 @@
 Она ведет на Google Disk, где находится архив с говорящим названием "CrackMe.zip". Архив, конечно же, запоролен.
 Скачаем файлик и попробуем сбрутить пароль. Например, с помощью утилиты fcrackzip.
 
-![image](https://github.com/user-attachments/assets/b19732d3-720b-48f8-88b8-f8c476311367)
+![image](https://github.com/user-attachments/assets/6e4c40bc-83b5-4063-aaa9-fbadc096b01c)
 
 Утилита моментально справилась и подобрала пароль, посмотрим на содержимое файла The_last_push.txt
 
@@ -60,6 +60,6 @@
 
 Файл на первый взгляд выглядит пустым, но на самом деле это не так. Он состоит из пробелов, табуляций и символов переноса строки. Это вполне может быть код WhiteSpace, для его декодирования воспользуемся утилитый stegsnow:
 
-![image](https://github.com/user-attachments/assets/6cbd13ba-1f0c-4e16-b486-0a201c33ba5c)
+![image](https://github.com/user-attachments/assets/d084eedb-668e-4b3f-baee-de3848735416)
 
 **И вот он флаг: Sa1kyoCTF{y0u_w0n_7h15_b477l3}**
